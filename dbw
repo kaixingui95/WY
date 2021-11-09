@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T08:03:38.216Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="a5ZF1jyIqKcxciCYCX_g" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T08:53:12.564Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="C3L2vzk81TpXGWe7XdfQ" version="15.2.9" type="github">
   <diagram id="mIAcBx87b2EbQa2GxC3v" name="Page-1">
-    <mxGraphModel dx="3951" dy="3060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3430" dy="2745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,7 +335,7 @@
           <mxGeometry x="287" y="2473" width="137" height="215" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-175" value="集成Request" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;labelBackgroundColor=none;fontColor=#FF0000;strokeColor=#330000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="2253" width="2170" height="597" as="geometry" />
+          <mxGeometry x="-40" y="2253" width="1430" height="597" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-179" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;strokeColor=#330000;" edge="1" parent="1" source="KqVGuXmr77SiScRkVNcy-180" target="KqVGuXmr77SiScRkVNcy-181">
           <mxGeometry relative="1" as="geometry" />
@@ -348,6 +348,9 @@
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-182" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="690" y="2538" width="50" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="KqVGuXmr77SiScRkVNcy-184" value="&lt;font color=&quot;#330000&quot;&gt;turn signal command&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="73" y="2980" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
