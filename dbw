@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T08:53:12.564Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="C3L2vzk81TpXGWe7XdfQ" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T13:00:54.144Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Mmd8rZg29bXmfQjjtkp3" version="15.2.9" type="github">
   <diagram id="mIAcBx87b2EbQa2GxC3v" name="Page-1">
-    <mxGraphModel dx="3430" dy="2745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2965" dy="2509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="KqVGuXmr77SiScRkVNcy-12" value="driver completely release steering" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="970" y="-65" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-13" value="torque：&amp;lt;=4&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;N·m&lt;/span&gt;&lt;br&gt;takeover：1&lt;br&gt;DRIVER ：0&lt;br&gt;EN: 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KqVGuXmr77SiScRkVNcy-13" value="&lt;br&gt;torque：&amp;lt;=4&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;N·m&lt;/span&gt;&lt;br&gt;takeover：1&lt;br&gt;DRIVER ：0&lt;br&gt;EN: 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-85" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-14" value="Brake、Throttle、Steering、Gear report&lt;br&gt;EN: 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
         <mxCell id="KqVGuXmr77SiScRkVNcy-52" value="driver completely release brake" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="970" y="185" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-53" value="Brake Pedal Percent：0&lt;br&gt;takeover：1&lt;br&gt;DRIVER ：0&lt;br&gt;EN: 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KqVGuXmr77SiScRkVNcy-53" value="&lt;br&gt;Brake Pedal Percent：0&lt;br&gt;takeover：1&lt;br&gt;DRIVER ：0&lt;br&gt;EN: 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1240" y="165" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-72" style="edgeStyle=none;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#330000;" edge="1" parent="1" source="KqVGuXmr77SiScRkVNcy-54" target="KqVGuXmr77SiScRkVNcy-56">
@@ -94,7 +94,7 @@
         <mxCell id="KqVGuXmr77SiScRkVNcy-56" value="driver completely release Throttle" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="980" y="435" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-57" value="Accelerator Pedal Percent：0&lt;br&gt;takeover：1&lt;br&gt;DRIVER ：0&lt;br&gt;EN: 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KqVGuXmr77SiScRkVNcy-57" value="&lt;br&gt;Accelerator Pedal Percent：0&lt;br&gt;takeover：1&lt;br&gt;DRIVER ：0&lt;br&gt;EN: 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1250" y="415" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-73" style="edgeStyle=none;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#330000;" edge="1" parent="1" source="KqVGuXmr77SiScRkVNcy-58" target="KqVGuXmr77SiScRkVNcy-60">
@@ -156,7 +156,7 @@
         <mxCell id="KqVGuXmr77SiScRkVNcy-110" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#330000;" edge="1" parent="1" source="KqVGuXmr77SiScRkVNcy-81" target="KqVGuXmr77SiScRkVNcy-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-81" value="driver completely release Throttle，dont delay" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KqVGuXmr77SiScRkVNcy-81" value="driver &lt;font color=&quot;#ff3333&quot;&gt;completely &lt;/font&gt;release Throttle，dont delay" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="995" y="1335" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-84" style="edgeStyle=none;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#330000;" edge="1" parent="1" source="KqVGuXmr77SiScRkVNcy-82" target="KqVGuXmr77SiScRkVNcy-83">
@@ -305,9 +305,6 @@
         <mxCell id="KqVGuXmr77SiScRkVNcy-157" value="IGNORE and Clear logic，（Brake、Throttle、Steering、Gear same logic   ）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;fontColor=#FF0000;strokeColor=#330000;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="920" width="2165" height="1290" as="geometry" />
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-164" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1940" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-165" value="一键进入自动的按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="2453" width="115" height="100" as="geometry" />
         </mxCell>
@@ -316,7 +313,7 @@
             <mxPoint x="690" y="2588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-167" value="&lt;br&gt;Brake、Throttle、Steering、Gear Report&lt;br&gt;EN: 1&lt;br&gt;DRIVER ：0&lt;br&gt;takeover：0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KqVGuXmr77SiScRkVNcy-167" value="&lt;br&gt;Brake、Throttle、Steering、Gear Report&lt;br&gt;EN: 0&lt;br&gt;DRIVER ：0&lt;br&gt;takeover：0&lt;br&gt;flag: 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="2503" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-174" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;strokeColor=#330000;" edge="1" parent="1" source="KqVGuXmr77SiScRkVNcy-168" target="KqVGuXmr77SiScRkVNcy-170">
@@ -328,7 +325,7 @@
         <mxCell id="KqVGuXmr77SiScRkVNcy-170" value="响应各个value值" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1090" y="2435" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-171" value="Wire_Control_Request" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="KqVGuXmr77SiScRkVNcy-171" value="Wire_Control_Request enable、disable" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="2603" width="125" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KqVGuXmr77SiScRkVNcy-172" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelBackgroundColor=none;fontColor=#FF0000;rotation=-180;" vertex="1" parent="1">
@@ -349,8 +346,14 @@
         <mxCell id="KqVGuXmr77SiScRkVNcy-182" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="690" y="2538" width="50" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="KqVGuXmr77SiScRkVNcy-184" value="&lt;font color=&quot;#330000&quot;&gt;turn signal command&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="73" y="2980" width="100" height="100" as="geometry" />
+        <mxCell id="KqVGuXmr77SiScRkVNcy-185" value="纵向合二为一" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FF0000;strokeColor=#330000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KqVGuXmr77SiScRkVNcy-186" value="最差两个周期响应" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FF0000;strokeColor=#330000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KqVGuXmr77SiScRkVNcy-187" value="Vertical Container" style="swimlane;labelBackgroundColor=none;fontColor=#FF0000;strokeColor=#330000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="970" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
